@@ -48,10 +48,13 @@ body{
   margin-top:25vh;
   width: 50%;
   max-width: 50%;
-/* 
+  /* 
   display: flex;
   align-items: center;
   margin: auto; */
+}
+.logo svg{
+  max-height: 50vh;
 }
 .nombre{
   font-family: 'poppins', sans-serif;
@@ -62,5 +65,3 @@ body{
   width: 100%;
   text-align: center;
 }
-
-
